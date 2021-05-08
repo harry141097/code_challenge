@@ -3,7 +3,7 @@ module.exports = {
     timezone: '+07:00',
     token: '939854371:AAGK0JUQeZzXQXhOkhEyNZJ2gUJqCxuELVs',
     token_life: 1000,
-    port: 5000,
+    port: 3001,
     language: 'vi',
     maintenance: false,
 

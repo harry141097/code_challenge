@@ -3,9 +3,8 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "node app",
     "test": "mocha",
-    "start-prod": "node ./bin/www"
+    "start": "node ./bin/www"
   },
   "dependencies": {
     "chai": "^3.2.0",
