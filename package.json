@@ -4,6 +4,7 @@
   "private": true,
   "scripts": {
     "start": "node app",
+    "test": "mocha",
     "start-prod": "node ./bin/www"
   },
   "dependencies": {
