@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "test": "mocha",
-    "start": "node ./bin/www"
+    "dev": "node app.js"
   },
   "dependencies": {
     "chai": "^3.2.0",
