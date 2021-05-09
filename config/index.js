@@ -3,13 +3,13 @@ module.exports = {
     timezone: '+07:00',
     token: '939854371:AAGK0JUQeZzXQXhOkhEyNZJ2gUJqCxuELVs',
     token_life: 1000,
-    port: 3001,
+    port: 3000,
     language: 'vi',
     maintenance: false,
 
     // db
     mongodb: {
-        host: 'localhost',
+        host: 'db',
         port: '27017',
         // user: "mongoWiredTiger",
         // pass: "1111qqqq##QQ",
@@ -18,7 +18,7 @@ module.exports = {
     },
 
     redis: {
-        Host: "localhost",
+        Host: "redis",
         Port: 6379,
         Password: "1111qqqq@Q",
         DB: 0
